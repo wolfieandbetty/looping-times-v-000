@@ -5,7 +5,3 @@ end
 
 looping
 end
-
-
-
-
